@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-This is a sample text edit
+<<<<<<< Updated upstream
+This is the updated version
 =======
 This is a sample text edit
 
-Hello world!!
+Hello again
+>>>>>>> Stashed changes
 
-<<<<<<< HEAD
-This is a new version of edited text
->>>>>>> feature
-=======
-Hello world! 
-
-This is a new version of edited text
->>>>>>> feature
-
-Sample text dated 08 november
+New changes coming up!
